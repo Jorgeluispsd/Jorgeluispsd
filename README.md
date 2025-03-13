@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h3>Learning</h3>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="25" alt="java logo"  />
   <img width="8" />
 </div>
 
