@@ -39,12 +39,33 @@ Here are some ideas to get you started:
         style= "padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="8" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="25" alt="java logo"/>
-  <img width="8" />          
+  <img 
+        align= "left"
+        alt= " HTML"
+        title= "HTML"
+        width= "30px"
+        style= "padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  
+/>
+
+  <img 
+        align= "left"
+        alt= " PYTHON"
+        title= "PYTHON"
+        width= "30px"
+        style= "padding-right: 10px;"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+ />
+ 
+  <img 
+        align= "left"
+        alt= " JAVA"
+        title= "JAVA"
+        width= "30px"
+        style= "padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+          
   </div>
 
 <h3>Learning</h3>
