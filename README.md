@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   <img align="right" alt="" height="200px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M4OTRncXBsc3ZwMTc0a283ZjdkanJ3N3JsMDBtdXF0enkydXRrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.webp">
 </div>
 
+<br/>
+<br/>
+
 <h3>Connect with me</h3>
 
 [![E-mail](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:jorge.luisps09@gmail.com)
