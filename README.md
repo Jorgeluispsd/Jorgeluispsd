@@ -68,7 +68,7 @@ Here are some ideas to get you started:
           
   </div>
 
-
+<\n>
 <h3>Learning</h3>
 <div align="left">
   <img 
