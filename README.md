@@ -68,10 +68,17 @@ Here are some ideas to get you started:
           
   </div>
 
+
 <h3>Learning</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="25" alt="java logo"  />
-  <img width="8" />
+  <img 
+        align= "left"
+        alt= " JAVA"
+        title= "JAVA"
+        width= "30px"
+        style= "padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
 </div>
 
 <div align="center">
