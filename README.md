@@ -68,6 +68,8 @@ Here are some ideas to get you started:
           
   </div>
 
+<br/>
+<br/>
 
 <h3>Learning</h3>
 <div align="left">
