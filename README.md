@@ -52,7 +52,7 @@ Here are some ideas to get you started:
         align= "left"
         alt= " PYTHON"
         title= "PYTHON"
-        width= "30px"
+        width= "50px"
         style= "padding-right: 10px;"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
  />
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
         align= "left"
         alt= " JAVA"
         title= "JAVA"
-        width= "30px"
+        width= "50px"
         style= "padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
         align= "left"
         alt= " JAVA"
         title= "JAVA"
-        width= "30px"
+        width= "50px"
         style= "padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
