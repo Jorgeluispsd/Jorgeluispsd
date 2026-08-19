@@ -3,7 +3,7 @@
 </h1>
 
 <h2>About me</h2>
-<p align="left">Computer Science student at UNIP, looking for my first opportunity in tech. I have hands-on experience with Java and Spring Boot, building backend projects with real-world architecture, and I've also been developing skills in data — SQL, data modeling and dashboards. I'm always seeking new challenges and constantly learning, with a passion for building solutions and growing as a developer.</p>
+<p align="left">Computer Science student at UNIP, looking for my first opportunity in tech. I have hands-on experience with Java and Spring Boot, building backend projects with real-world architecture, and I've also been developing skills in data SQL, data modeling and dashboards. I'm always seeking new challenges and constantly learning, with a passion for building solutions and growing as a developer.</p>
 
 <div align="right">
   <img align="right" alt="" height="200px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M4OTRncXBsc3ZwMTc0a283ZjdkanJ3N3JsMDBtdXF0enkydXRrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.webp">
