@@ -31,12 +31,6 @@
 <br/>
 <br/>
 
-<h3>Learning</h3>
-<div align="left">
-  <img align="left" alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-</div>
-<br/>
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jorgeluispsd&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="stats graph" />
