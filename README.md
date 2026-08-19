@@ -34,71 +34,22 @@ Here are some ideas to get you started:
 
 <h3>My Stack</h3>
 <div align="left">
-  <img 
-        align= "left"
-        alt= " HTML"
-        title= "HTML"
-        width= "50px"
-        style= "padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-  <img 
-        align= "left"
-        alt= " HTML"
-        title= "HTML"
-        width= "50px"
-        style= "padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  
-/>
+  <img align="left" alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="left" alt="Python" title="Python" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="left" alt="Spring Boot" title="Spring Boot" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="left" alt="MySQL" title="MySQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="left" alt="Apache Kafka" title="Apache Kafka" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+  <img align="left" alt="Docker" title="Docker" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img align="left" alt="Redis" title="Redis" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
+</div>
 
-  <img 
-        align= "left"
-        alt= " PYTHON"
-        title= "PYTHON"
-        width= "50px"
-        style= "padding-right: 10px;"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
- />
- 
-  <img 
-        align= "left"
-        alt= " JAVA"
-        title= "JAVA"
-        width= "50px"
-        style= "padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-          
-  </div>
-
-<br/>
-<br/>
-
-<h3>Learning</h3>
-<div align="left">
-  <img 
-        align= "left"
-        alt= " JAVA"
-        title= "JAVA"
-        width= "50px"
-        style= "padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorgeluispsd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jorgeluispsd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorgeluispsd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jorgeluispsd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jorgeluispsd&theme=dracula" alt="activity graph" />
 </div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jorgeluispsd/Jorgeluispsd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jorgeluispsd/Jorgeluispsd/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jorgeluispsd/Jorgeluispsd/output/github-contribution-grid-snake.svg">
-</picture>
