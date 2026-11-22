@@ -1,4 +1,4 @@
-![Oi, eu sou o Jorge Luis. Backend com Java e Spring Boot. Contato por e-mail e LinkedIn.](assets/banner-jorge.png)
+![Oi, eu sou o Jorge Luis. Backend com Java e Spring Boot. Contato por e-mail e LinkedIn.](banner-jorge.png)
 
 [**E-mail**](mailto:jorge.luisps09@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/jorge-luis-paulista-dos-santos-4aa566223)
 
