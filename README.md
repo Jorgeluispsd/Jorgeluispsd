@@ -1,44 +1,47 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Oswald+&size=35&duration=4000&pause=400&color=00F75C&width=435&lines=Hi+There!%F0%9F%91%8B;Welcome+to+My++profile;I'm+Jorge+Luis;Contact+me+%F0%9F%98%81" />
-</h1>
+![Oi, eu sou o Jorge Luis. Backend com Java e Spring Boot. Contato por e-mail e LinkedIn.](assets/banner-jorge.png)
 
-<h2>About me</h2>
-<p align="left">Computer Science student at UNIP, looking for my first opportunity in tech. I have hands-on experience with Java and Spring Boot, building backend projects with real-world architecture, and I've also been developing skills in data SQL, data modeling and dashboards. I'm always seeking new challenges and constantly learning, with a passion for building solutions and growing as a developer.</p>
+[**E-mail**](mailto:jorge.luisps09@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/jorge-luis-paulista-dos-santos-4aa566223)
 
-<div align="right">
-  <img align="right" alt="" height="200px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M4OTRncXBsc3ZwMTc0a283ZjdkanJ3N3JsMDBtdXF0enkydXRrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.webp">
+## Projetos em destaque
+
+### [MusicSwapix](https://github.com/Jorgeluispsd/MusicSwapix) · Conversor de playlists
+
+Criei o MusicSwapix para levar minhas playlists de um serviço para o outro sem pesquisar cada música à mão. Ele converte playlists **nos dois sentidos entre Spotify e YouTube**, mostra as faixas encontradas antes de confirmar e mantém um histórico para evitar duplicatas.
+
+**Java 21 · Spring Boot · Angular · TypeScript · PostgreSQL**
+
+### [Payflow](https://github.com/Jorgeluispsd/Payment-Workflow) · Plataforma de pagamentos
+
+Projeto colaborativo de pagamentos com microsserviços e comunicação por eventos. Trabalhei no **motor de detecção de fraudes**, implementando regras independentes para avaliar transações, e ajudei a refatorar o serviço principal de pagamentos.
+
+**Java · Spring Boot · Apache Kafka · PostgreSQL · Redis**
+
+## Sobre mim
+
+Gosto de desenvolver aplicações que resolvem problemas que encontro no dia a dia. Meu foco é **backend com Java e Spring Boot**, especialmente APIs, integrações entre serviços e persistência de dados.
+
+No **MusicSwapix**, transformei a dificuldade de levar minhas playlists entre Spotify e YouTube em uma aplicação que sugere faixas equivalentes e permite revisar as correspondências antes de confirmar a conversão. No **Payflow**, trabalhei em equipe no motor de detecção de fraudes e na refatoração do serviço principal de pagamentos.
+
+Também venho aprofundando meus conhecimentos em **SQL, modelagem de dados e dashboards**. Busco minha primeira oportunidade em tecnologia para contribuir com uma equipe e ganhar experiência desenvolvendo e mantendo software.
+
+<div data-importer="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorgeluispsd&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dracula&amp;locale=en" alt="Estatísticas do GitHub de Jorge Luis" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeluispsd&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;locale=en" alt="Linguagens mais usadas nos repositórios de Jorge Luis" />
 </div>
-<br/>
-<br/>
 
-<h3>Connect with me</h3>
+## Tecnologias
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:jorge.luisps09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jorge-luis-paulista-dos-santos-4aa566223)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/jorgeluispsd/)
+| Área | Tecnologias |
+| --- | --- |
+| Backend e mensageria | Java, Spring Boot e Apache Kafka |
+| Dados | SQL, PostgreSQL, MySQL e Redis |
+| Interface web | Angular e TypeScript |
+| Ferramentas e estudos | Docker e Python |
 
-<h3>My Stack</h3>
-<div align="left">
-  <img align="left" alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="left" alt="Python" title="Python" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="left" alt="Spring Boot" title="Spring Boot" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="left" alt="MySQL" title="MySQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="left" alt="Apache Kafka" title="Apache Kafka" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
-  <img align="left" alt="Docker" title="Docker" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="left" alt="Redis" title="Redis" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
-</div>
-<br/>
-<br/>
-<br/>
-<br/>
+## Atividade no GitHub
 
-
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jorgeluispsd/Jorgeluispsd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jorgeluispsd/Jorgeluispsd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jorgeluispsd/Jorgeluispsd/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuições do GitHub em estilo Pac-Man" src="https://raw.githubusercontent.com/Jorgeluispsd/Jorgeluispsd/output/pacman-contribution-graph.svg">
 </picture>
-</div>
