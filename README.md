@@ -40,6 +40,8 @@ Também venho aprofundando meus conhecimentos em **SQL, modelagem de dados e das
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeluispsd&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;locale=en" width="37%" alt="Linguagens mais usadas nos repositórios de Jorge Luis" />
 </div>
 
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jorgeluispsd/Jorgeluispsd/output/pacman-contribution-graph-dark.svg">
   <img alt="Gráfico de contribuições do GitHub em estilo Pac-Man" src="https://raw.githubusercontent.com/Jorgeluispsd/Jorgeluispsd/output/pacman-contribution-graph.svg">
