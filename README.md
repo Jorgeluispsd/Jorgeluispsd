@@ -37,6 +37,7 @@ Também venho aprofundando meus conhecimentos em **SQL, modelagem de dados e das
 
 <div data-importer="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jorgeluispsd&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dracula&amp;locale=en" width="53%" alt="Estatísticas do GitHub de Jorge Luis" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeluispsd&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;locale=en" width="37%" alt="Linguagens mais usadas nos repositórios de Jorge Luis" />
 </div>
 
